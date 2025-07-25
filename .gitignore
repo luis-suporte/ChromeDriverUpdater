@@ -1,4 +1,6 @@
 .env
 .venv
 .gitignore
-
+requirements.txt
+atualiza_chromedriver.bat
+atualiza_chromedriver.py
