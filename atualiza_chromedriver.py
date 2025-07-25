@@ -119,5 +119,5 @@ def main():
 
     notificar("ChromeDriver Atualizado", f"Versão {versao_atual} baixada e enviada ao GitHub.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
